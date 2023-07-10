@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cmoney691
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity and Machine 
+- 🌱 I’m currently learning Cybersecurity and AI (DL and ML) 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Cullenyankey@gmail.com
 
